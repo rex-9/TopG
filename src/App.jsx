@@ -3,8 +3,9 @@ import { Home } from './components/Home'
 import { Network } from './components/Network'
 import { Labs } from './components/Labs'
 import { CCNA } from './components/CCNA'
-import { Register } from './components/Register'
 import { Contact } from './components/Contact'
+import { Register } from './components/Register'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <CCNA />
         <Contact />
         <Register />
+        <Footer />
       </div>
     </section>
   )

@@ -22,7 +22,7 @@ export const Network = () => {
               </a>
             </li>
             <li className="hover:text-red-400">
-              <a href="https://www.cisco.com/c/en/us/products/security/what-is-network-security.html"> target="_blank"
+              <a href="https://www.cisco.com/c/en/us/products/security/what-is-network-security.html" target="_blank">
                 https://www.cisco.com/c/en/us/products/security/what-is-network-security.html
               </a>
             </li>
